@@ -1,4 +1,4 @@
-# Maharashtra-Election-Analytics-Dashboard
+# Maharashtra State Assembly / Parliment Election Result 2024
 A dynamic Excel dashboard analyzing 2014-2024 Election trends using advanced formula modeling
 ![Page 1](https://github.com/user-attachments/assets/d26d3a3f-7a35-421f-ae81-015a30849393)
 ![Page 2](https://github.com/user-attachments/assets/d9cf1482-97a9-4430-97ce-6ccef0db2a56)
